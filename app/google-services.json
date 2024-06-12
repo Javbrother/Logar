@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834042722243",
+    "project_id": "authentiker-1ed79",
+    "storage_bucket": "authentiker-1ed79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834042722243:android:ed00ed24c17df080fcaf76",
+        "android_client_info": {
+          "package_name": "com.datalog.loginSinu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRIUmYvnkLNmNF59w2eZ1477txwPgBLcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
