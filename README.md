@@ -1,4 +1,4 @@
-README
+LOGAR
 Overview
 This Android application demonstrates how to integrate Google Sign-In with Firebase Authentication. It allows users to sign in using their Google account and displays a simple greeting message upon successful authentication.
 
